@@ -1,10 +1,10 @@
 # Some Cool Title
 
-## 👋 Hi there! HI AUDREY and ZARRIA!
+## Kelsey Horner's Portfilo
 
 ### About Me
 
-LOREM IPSUM ETC
+I am a Business Management student at James Madison univeristy. 
 
 ### Experience
 
